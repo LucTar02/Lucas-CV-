@@ -1,38 +1,72 @@
 .App {
+  min-height: 100vh;
+}
+
+.räknare{
+  text-align: center;
+  color: aliceblue;
+}
+.button{
+  margin-top: 20px;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.Header-head-section{
+  color: aliceblue;
+  text-align: center;
+  font-size: 25px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.navLink{
+  color: rgb(101, 206, 101);
+  border: solid 2px black;
+  border-radius: 10px;
+  font-size: 25px;
+  font-weight: 500;
+  padding: 7.5px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+img{
+  height: 200px;
+  margin: 100px
 }
 
-.App-link {
-  color: #61dafb;
+/* Home Page */
+.home-page{
+  margin-top: 50px;
+  color: aliceblue;
+  font-size: 20px;
+  text-align: center;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* Kontakt Page */
+.Kontakt-page{
+  margin: 50px 0 0 25px;
+  color: aliceblue;
+  font-size: 20px;
+}
+.Kontakt-info{
+  margin-top: 20px;
+}
+
+/* Projekt Page */
+.Projekt-page{
+  margin-top: 50px; 
+  text-align: center; 
+  color: aliceblue;
+}
+
+section h2{
+  color: rgb(101, 206, 101);
+}
+
+/* Om Mig Page */
+.OmMig-page{
+  margin-top: 50px;
+  color: aliceblue;
+  font-size: 20px;
+  text-align: center;
+}
+.Main-text-OmMig{
+  margin: 30px 100px 0 100px;
 }

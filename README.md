@@ -1,3 +1,9 @@
+Home Kontakt Projekt och Om Mig är dem olika Views man kan vara inne på och det andvänds routing för att navigera och med hjälp av useState byts färgen när man är inne på dem olika.
+Components är olika filer som visar olika saker som tex några andvänns flera gånger.
+Ge poäng fungera över hela sidan med hjälp av Redux. 
+Projekt view andvänder sig av API för att ta data från GitHub och skicka, så man kan visa upp datan som vill visa. och där det står 'Beskrivning: Ingen...' är till dem Projekt som inte har beskrivning.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
