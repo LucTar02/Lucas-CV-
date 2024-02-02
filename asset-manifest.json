@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Lucas-CV-/static/css/main.faeb32b0.css",
+    "main.js": "/Lucas-CV-/static/js/main.16647028.js",
+    "static/js/787.b4b862db.chunk.js": "/Lucas-CV-/static/js/787.b4b862db.chunk.js",
+    "index.html": "/Lucas-CV-/index.html",
+    "main.faeb32b0.css.map": "/Lucas-CV-/static/css/main.faeb32b0.css.map",
+    "main.16647028.js.map": "/Lucas-CV-/static/js/main.16647028.js.map",
+    "787.b4b862db.chunk.js.map": "/Lucas-CV-/static/js/787.b4b862db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faeb32b0.css",
+    "static/js/main.16647028.js"
+  ]
+}
